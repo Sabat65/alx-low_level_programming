@@ -17,10 +17,10 @@ void print_number(int n)
 	}
 	else
 	{
-		m=n;
+		m = n;
 	}
 
-	d=m;
+	d = m;
 	count = 1;
 
 	while (d > 9)
